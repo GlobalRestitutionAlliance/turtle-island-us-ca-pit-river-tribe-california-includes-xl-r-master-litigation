@@ -1,6 +1,6 @@
 # US CA PIT RIVER TRIBE CALIFORNIA INCLUDES XL R - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
